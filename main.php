@@ -13,7 +13,7 @@ $age = "24";
 echo "My name is $firstName";
 
 echo "I am $age years old";
-?> 
+?>
 
 
 
